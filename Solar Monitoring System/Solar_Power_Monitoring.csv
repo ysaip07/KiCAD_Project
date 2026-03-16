@@ -1,0 +1,12 @@
+Reference,Qty,Value,Footprint,Datasheet
+A1,1,Arduino_UNO_R3,Module:Arduino_UNO_R3,https://www.arduino.cc/en/Main/arduinoBoardUno
+C1,1,0.1uF,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,
+D1,1,LED,PCM_SparkFun-LED:LED_0603_1608Metric,~
+DS1,1,HY1602E,Display:HY1602E,http://www.icbank.com/data/ICBShop/board/HY1602E.pdf
+IC1,1,ACS712ELCTR-05B-T,Current_Sensor_SMD_ACS712ELCTR-05B-T:SOIC127P600X175-8N,https://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx
+J1,1,Solar Input,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal",
+R1,1,10k,PCM_fab:R_1206,~
+R2,1,2.2k,PCM_fab:R_1206,~
+R3,1,220ohms,PCM_fab:R_1206,~
+RV1,1,potentiometer_RM065,PCM_SL_Devices:Potentiometer_RM065,
+"TP_GND1,TP_IN1,TP_OUT1,TP_SOLAR_V+1,TP_VDIV1",5,1.25mm,PCM_SparkFun-Connector:TestPoint-1.25mm,~
