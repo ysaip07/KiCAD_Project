@@ -1,0 +1,6 @@
+Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
+C1	1	0.1uF				PCM_SparkFun-Capacitor:C_0603_1608Metric	https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf
+C2	1	10nF				PCM_SparkFun-Capacitor:C_0603_1608Metric	https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf
+IC1	1	NE555DR				SMD555IC_R:NE555DR	https: //www.ti.com/lit/gpn/ne555
+R1	1	10k				SMD555IC_R:RESC2012X60N	http://www.koaspeer.com/catimages/Products/RK73H/RK73H.pdf
+R2	1	100k				R_SMD_100k:RESC2012X60N	http://www.koaspeer.com/catimages/Products/RK73H/RK73H.pdf
